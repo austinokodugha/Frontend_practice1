@@ -268,10 +268,6 @@ footer{
     .small-device{
         display: none;
     }
-    /* .smalltext button:hover{
-        background-color: var(--VeryLightGray);
-        color: var(--VeryDarkViolet);
-    } */
     .largedevice {
         display: flex;
         background-color: var(--VeryDarkViolet);

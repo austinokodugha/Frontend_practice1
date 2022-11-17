@@ -98,7 +98,7 @@ nav div button:hover{
 .smalltext h1{
     z-index: 3;
 }
-.smalltext .humanity button{
+.smalltext button{
   width: 11rem;  
   height: 3rem;
   border: 2px solid var(--VeryLightGray);
@@ -106,7 +106,7 @@ nav div button:hover{
   color: var(--VeryLightGray);
   cursor: pointer;
 }
-.smalltext .humanity button:hover{
+.smalltext button:hover{
     background-color: var(--VeryLightGray);
     color: var(--VeryDarkViolet);
 }
@@ -176,9 +176,10 @@ hr{
     margin-top: 2rem;
 
 }
-/* .info-box div:nth-child(2) button:hover{
+.info-box div:nth-child(2) button:hover{
     background-color: aliceblue;
-} */
+    color: var(--VeryDarkViolet);
+}
 .info-box div:nth-child(2) h1{
     z-index: 3;
 }
